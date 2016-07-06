@@ -12,11 +12,11 @@ Jason Brownlee의 Deep Learning with Python에 소개된 내용을 따라하기 
 
 
 
-*참고- SVN의 UPDATE
+*참고: SVN의 UPDATE
 >$ git pull
 
 
-*참고 SVN의 COMMIT
+*참고: SVN의 COMMIT
 >$ git add *
 >
 >$ git commit -m "이번 확정본에 대한 설명"
